@@ -38,11 +38,11 @@ O Jogo das Portas é um jogo simples onde o jogador deve escolher entre três po
 1. Clone este repositório para sua máquina local:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
+   
 2. Navegue até o diretório do projeto:
    ```bash
    cd seu-repositorio
-   ```
+   
 3. Abra o arquivo `index.html` em um navegador para jogar.
 
 ## Contribuições
