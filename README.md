@@ -31,7 +31,7 @@ O Jogo das Portas é um jogo simples onde o jogador deve escolher entre três po
 
 - **HTML**: Estrutura do jogo e elementos da interface.
 - **CSS**: Estilização e design do jogo.
-- **JavaScript**: Lógica do jogo e interatividade.
+- **Python**: Lógica do jogo e interatividade.
 
 ## Instalação e Execução
 
