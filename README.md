@@ -1,5 +1,6 @@
 #Menu do Jogo(Ainda não finalizado):
-![Resultado Monty Hall](https://github.com/user-attachments/assets/2885b521-e97a-48ca-952b-320a75613cf2)
+![Menu Monty Hall](https://github.com/user-attachments/assets/cc2d2e32-d766-4dbb-91be-17e8500f5615)
+
 
 ```markdown
 # Jogo das Portas
@@ -65,7 +66,5 @@ Se você tiver alguma dúvida ou sugestão, entre em contato:
 Obrigado por jogar e por seu interesse no Jogo das Portas!
 
 # Resultado de uma rodada manual:
-
-![Resultado Monty Hall](https://github.com/user-attachments/assets/3a327990-b25d-45bb-81f6-575fe3e5f7c5)
 ```
-
+![Resultado Monty Hall](https://github.com/user-attachments/assets/3a327990-b25d-45bb-81f6-575fe3e5f7c5)
