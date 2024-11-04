@@ -3,6 +3,11 @@
 
 
 ```markdown
+
+#Ideia do projeto:
+A ideia da criação desse jogo é colocar a questão da probabilidade em ação. Para ser breve, ao decidir trocar todas as suas decições iniciais, suas chances de escolher a porta com a melhor premiação é de 66.6̅
+
+
 # Jogo das Portas
 
 Bem-vindo ao **Jogo das Portas**! Este é um jogo interativo baseado no famoso "Problema de Monty Hall", onde você pode testar suas habilidades em um jogo de escolha e estratégia.
