@@ -64,7 +64,6 @@ Se você tiver alguma dúvida ou sugestão, entre em contato:
 - **GitHub**: [seu-usuario](https://github.com/seu-usuario)
 
 Obrigado por jogar e por seu interesse no Jogo das Portas!
-
-# Resultado de uma rodada manual:
 ```
+# Resultado de uma rodada manual:
 ![Resultado Monty Hall](https://github.com/user-attachments/assets/3a327990-b25d-45bb-81f6-575fe3e5f7c5)
