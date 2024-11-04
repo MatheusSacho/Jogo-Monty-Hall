@@ -5,7 +5,7 @@
 ```markdown
 
 # Ideia do projeto:
-A ideia da criação desse jogo é colocar a questão da probabilidade em ação. Para ser breve, ao decidir trocar todas as suas decisões iniciais, suas chances de escolher a porta com a melhor premiação é de 66.6̅
+A ideia da criação desse jogo é colocar a questão da probabilidade em ação. Para ser breve, ao decidir trocar todas as suas decisões iniciais, suas chances de escolher a porta com a melhor premiação é de 66.6~%. Enquanto permanecer com a escolha, 33.3~%
 
 
 # Jogo das Portas
